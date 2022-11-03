@@ -1,5 +1,5 @@
 [package]
-name = "multi-party-ecdsa"
+name = "smpc"
 version = "0.8.1"
 edition = "2018"
 authors = [
